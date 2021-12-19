@@ -21,5 +21,5 @@ Purchase	                    Purchase Amount (Target Variable)
 Your model performance will be evaluated on the basis of your prediction of the purchase amount for the test data (test.csv), which contains similar data-points as train except for their purchase amount. Your submission needs to be in the format as shown in "sample_submission_V9Inaty.csv".
 We have used RMSE metric for evaluating the model.
 
-Visit Analytics Vidhya(https://datahack.analyticsvidhya.com/contest/black-friday/#LeaderBoard) for my rank I achieved Rank 43 on the Public Leaderboard in the hackathon by @AnalyticsVidhya Practice Problem: Black Friday Sales Prediction
+Visit Analytics Vidhya(https://datahack.analyticsvidhya.com/contest/black-friday/#LeaderBoard) for my rank I achieved Rank 48 on the Public Leaderboard in the hackathon by @AnalyticsVidhya Practice Problem: Black Friday Sales Prediction
 
